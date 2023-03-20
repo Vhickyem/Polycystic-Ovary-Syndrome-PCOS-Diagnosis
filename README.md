@@ -20,7 +20,13 @@ It was cleaned and manipulated using Python Programming Language.
 ![Screenshot_20230320-081054](https://user-images.githubusercontent.com/99379120/226312843-a1f0d1e7-7269-4a86-bc79-ed5c311a6bc0.png)
 
 ## Python Packages
-
+|Package|Uses|
+|---|---|
+|Pandas<br>Numpy|Data Manipulation and Cleaning
+|Seaborn<br>Matplotlib|Visualization|
+|train_test_split from sklearn.model_selection|Split dataset into two|
+|LogisticRegression from sklearn.linear_model|Import model|
+|Confusion_matrix from sklearn.metrics|Check model performance|
 ## Methodology
 Visualizations were done to explore the dataset and to check relationship between variables. A Classification model was used to diagnose the patients. The model's performance was also checked.
 ### Visualizations
